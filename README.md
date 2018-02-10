@@ -3,8 +3,7 @@
 This is a website about Karl Wilson, including his Resume, an image, and a short
 bio.
 
-1. Currently everything except the hosted page in my tufts cs account has been 
-implemented correctly.
+1. Everything has been implemented correctly.
 
 2. I have not collaborated with anyone for this assignment.
 
