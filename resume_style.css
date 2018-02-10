@@ -1,7 +1,7 @@
 div {
         color: pink;
         text-align: center;
-        font-family:"Comic Sans MS";
+        background-color: rgba(120, 160, 200, 0.2);
         font-weight: bold;
         border: 1px solid #000; 
 }
